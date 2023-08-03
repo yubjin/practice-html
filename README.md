@@ -12,9 +12,13 @@
     -Live Server
 
 
-    ## TODO
-    [x] 헤더 완성
-    [ ]나머지?
+## TODO
+  - [x] 헤더 완성
+  - [x] 메인
+  - [ ] 섹션
     
-    ## Ref.
-    .gitignore
+ ## Ref.
+  - .gitignore
+  - [코딩 자율학습 HTML + CSS + 자바스크립트](https://www.google.co.kr/books/edition/%EC%BD%94%EB%94%A9_%EC%9E%90%EC%9C%A8%ED%95%99%EC%8A%B5_HTML_+_CSS_+_%EC%9E%90%EB%B0%94/ay9sEAAAQBAJ?hl=ko&gbpv=0)
+  - [Font Awesome](https://fontawesome.com/)
+  - [Google Font](https://fonts.google.com/)
