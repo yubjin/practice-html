@@ -16,6 +16,8 @@
   - [x] 헤더 완성
   - [x] 메인
   - [ ] 섹션
+    - [ ] About Me (2개 균등 분할하기)
+    - [ ] Contect With Me
     
  ## Ref.
   - .gitignore
